@@ -1,0 +1,8 @@
+comer
+dar
+decir
+entregar
+explicar
+preguntar
+saber
+ver

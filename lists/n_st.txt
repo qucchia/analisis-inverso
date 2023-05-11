@@ -1,0 +1,7 @@
+gravedad
+trigo
+vigor
+norte
+sur
+este
+oeste

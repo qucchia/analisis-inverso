@@ -1,0 +1,9 @@
+empezar
+andar
+comenzar
+romper
+ir
+volver
+terminar
+llevar
+parar

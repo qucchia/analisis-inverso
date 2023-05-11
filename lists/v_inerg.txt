@@ -1,0 +1,7 @@
+andar
+caminar
+cantar
+gritar
+llorar
+sonreír
+trabajar

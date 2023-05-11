@@ -1,0 +1,6 @@
+aparecer
+crecer
+desaparecer
+faltar
+florecer
+llegar
